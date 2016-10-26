@@ -1,0 +1,25 @@
+﻿table 
+        {
+           /*border:1px solid #3c749c;*/
+           border-radius:5px 5px;
+           background-color:#ffffff;
+           font-family:'微软雅黑','Microsoft YaHei UI','Microsoft YaHei';
+           text-align:center;
+        }
+       
+      
+         tr:nth-child(2n+1) 
+        {
+            background-color:#a4baca;
+
+        }
+         tr:hover 
+        {
+            background-color:#2897e8;
+        }
+         .pageLink
+        {
+            color:Blue;
+             margin-left:2px;
+            margin-right:2px;
+        }
